@@ -1,6 +1,6 @@
 <hr>
 
-# Project Name
+# Small Java Programs
 
 ## Description
 This is a small collection of programs made for revising Java, feel free to upload any correction or to use any of the code as you want (view [MIT License](LICENSE)).
